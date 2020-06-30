@@ -1,0 +1,40 @@
+{
+  "_from": "ptcs-base-theme@^9.0.0-0",
+  "_id": "ptcs-base-theme@9.0.0-1591689227",
+  "_inBundle": false,
+  "_integrity": "sha1-PzgR21qzlwSybc5dnQawO1uAHkA=",
+  "_location": "/ptcs-base-theme",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-base-theme@^9.0.0-0",
+    "name": "ptcs-base-theme",
+    "escapedName": "ptcs-base-theme",
+    "rawSpec": "^9.0.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.0.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-base-theme/-/ptcs-base-theme-9.0.0-1591689227.tgz",
+  "_shasum": "3f3811db5ab39704b26dce5d9d06b03b5b801e40",
+  "_spec": "ptcs-base-theme@^9.0.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-base-theme.js",
+  "name": "ptcs-base-theme",
+  "publishConfig": {
+    "registry": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-local/"
+  },
+  "version": "9.0.0-1591689227"
+}

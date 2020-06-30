@@ -1,0 +1,40 @@
+{
+  "_from": "ptcs-icon@^9.1.0-0",
+  "_id": "ptcs-icon@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-veiuETegq2ktYw52X09JhWjNjr4=",
+  "_location": "/ptcs-icon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-icon@^9.1.0-0",
+    "name": "ptcs-icon",
+    "escapedName": "ptcs-icon",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library",
+    "/ptcs-textfield"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-icon/-/ptcs-icon-9.1.0-820.tgz",
+  "_shasum": "bde8ae1137a0ab692d630e765f4f498568cd8ebe",
+  "_spec": "ptcs-icon@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "## Overview",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-icon.js",
+  "name": "ptcs-icon",
+  "version": "9.1.0-820"
+}

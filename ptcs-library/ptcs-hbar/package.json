@@ -1,0 +1,41 @@
+{
+  "_from": "ptcs-hbar@^9.1.0-0",
+  "_id": "ptcs-hbar@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-Cdyjqm2Cpy6CYeaHUbrB9+vtocY=",
+  "_location": "/ptcs-hbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-hbar@^9.1.0-0",
+    "name": "ptcs-hbar",
+    "escapedName": "ptcs-hbar",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-breadcrumb",
+    "/ptcs-datepicker",
+    "/ptcs-dropdown",
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-hbar/-/ptcs-hbar-9.1.0-820.tgz",
+  "_shasum": "09dca3aa6d82a72e8261e68751bac1f7ebeda1c6",
+  "_spec": "ptcs-hbar@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Visual",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-hbar.js",
+  "name": "ptcs-hbar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

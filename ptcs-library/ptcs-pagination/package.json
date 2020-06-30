@@ -1,0 +1,33 @@
+{
+  "_from": "ptcs-pagination@^9.1.0-0",
+  "_id": "ptcs-pagination@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-yr+14C+PxV84jQNktQFx8K94hVk=",
+  "_location": "/ptcs-pagination",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-pagination@^9.1.0-0",
+    "name": "ptcs-pagination",
+    "escapedName": "ptcs-pagination",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-pagination/-/ptcs-pagination-9.1.0-820.tgz",
+  "_shasum": "cabfb5e02f8fc55f388d0364b50171f0af788559",
+  "_spec": "ptcs-pagination@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "ptcs-pagination.js",
+  "name": "ptcs-pagination",
+  "version": "9.1.0-820"
+}

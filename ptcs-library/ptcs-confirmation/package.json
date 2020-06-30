@@ -1,0 +1,43 @@
+{
+  "_from": "ptcs-confirmation@^9.1.0-0",
+  "_id": "ptcs-confirmation@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-Hh9k4s0Lagy5a/58sFHRcQdHsVA=",
+  "_location": "/ptcs-confirmation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-confirmation@^9.1.0-0",
+    "name": "ptcs-confirmation",
+    "escapedName": "ptcs-confirmation",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-confirmation/-/ptcs-confirmation-9.1.0-820.tgz",
+  "_shasum": "1e1f64e2cd0b6a0cb96bfe7cb051d1710747b150",
+  "_spec": "ptcs-confirmation@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "ptcs-library": "file:../ptcs-library",
+    "ptcs-modal-overlay": "file:../ptcs-modal-overlay"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-confirmation.js",
+  "name": "ptcs-confirmation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

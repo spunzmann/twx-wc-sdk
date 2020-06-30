@@ -1,0 +1,37 @@
+{
+  "_from": "ptcs-behavior-styleable@^9.1.0-0",
+  "_id": "ptcs-behavior-styleable@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-MNolbg6z+Gusvlw7SLXUYpGFPYE=",
+  "_location": "/ptcs-behavior-styleable",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-behavior-styleable@^9.1.0-0",
+    "name": "ptcs-behavior-styleable",
+    "escapedName": "ptcs-behavior-styleable",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-behavior-styleable/-/ptcs-behavior-styleable-9.1.0-820.tgz",
+  "_shasum": "30da256e0eb3f86bacbe5c3b48b5d46291853d81",
+  "_spec": "ptcs-behavior-styleable@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-behavior-styleable.js",
+  "name": "ptcs-behavior-styleable",
+  "version": "9.1.0-820"
+}

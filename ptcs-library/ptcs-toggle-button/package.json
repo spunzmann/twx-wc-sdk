@@ -1,0 +1,43 @@
+{
+  "_from": "ptcs-toggle-button@^9.1.0-0",
+  "_id": "ptcs-toggle-button@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-1P5MyJZBSf+p9NSqwBjDWC+kO+w=",
+  "_location": "/ptcs-toggle-button",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-toggle-button@^9.1.0-0",
+    "name": "ptcs-toggle-button",
+    "escapedName": "ptcs-toggle-button",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-toggle-button/-/ptcs-toggle-button-9.1.0-820.tgz",
+  "_shasum": "d4fe4cc8964149ffa9f4d4aac018c3582fa43bec",
+  "_spec": "ptcs-toggle-button@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "ptcs-behavior-binary": "file:../ptcs-behavior-binary",
+    "ptcs-label": "file:../ptcs-label",
+    "ptcs-shadow-style": "file:../ptcs-shadow-style"
+  },
+  "deprecated": false,
+  "description": "<img src=\"img/ptcs-togglebutton.png\">",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-toggle-button.js",
+  "name": "ptcs-toggle-button",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

@@ -1,0 +1,42 @@
+{
+  "_from": "ptcs-icons@^9.1.0-0",
+  "_id": "ptcs-icons@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-DSKgWbz91BK6VkYE1VMIYnJbdF8=",
+  "_location": "/ptcs-icons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-icons@^9.1.0-0",
+    "name": "ptcs-icons",
+    "escapedName": "ptcs-icons",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-datepicker",
+    "/ptcs-library",
+    "/ptcs-textfield"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-icons/-/ptcs-icons-9.1.0-820.tgz",
+  "_shasum": "0d22a059bcfdd412ba564604d5530862725b745f",
+  "_spec": "ptcs-icons@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Alex Ostrovsky",
+    "email": "aostrovsky@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-iconset-svg": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "## Overview",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "name": "ptcs-icons",
+  "version": "9.1.0-820"
+}

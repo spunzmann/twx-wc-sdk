@@ -1,0 +1,35 @@
+{
+  "_from": "ptcs-label@^9.1.0-0",
+  "_id": "ptcs-label@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-5RI+TF4wL7DUGytYbWQFUsjPthc=",
+  "_location": "/ptcs-label",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-label@^9.1.0-0",
+    "name": "ptcs-label",
+    "escapedName": "ptcs-label",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library",
+    "/ptcs-textfield",
+    "/ptcs-toggle-button"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-label/-/ptcs-label-9.1.0-820.tgz",
+  "_shasum": "e5123e4c5e302fb0d41b2b586d640552c8cfb617",
+  "_spec": "ptcs-label@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Visual",
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-label.js",
+  "name": "ptcs-label",
+  "version": "9.1.0-820"
+}

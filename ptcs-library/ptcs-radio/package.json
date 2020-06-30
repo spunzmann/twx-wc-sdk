@@ -1,0 +1,38 @@
+{
+  "_from": "ptcs-radio@^9.1.0-0",
+  "_id": "ptcs-radio@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-0CFUlfS3dMrmyG9Aa/CI1+V1y/I=",
+  "_location": "/ptcs-radio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-radio@^9.1.0-0",
+    "name": "ptcs-radio",
+    "escapedName": "ptcs-radio",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-radio/-/ptcs-radio-9.1.0-820.tgz",
+  "_shasum": "d0215495f4b774cae6c86f406bf088d7e575cbf2",
+  "_spec": "ptcs-radio@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Visual",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-radio.js",
+  "name": "ptcs-radio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

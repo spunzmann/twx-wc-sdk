@@ -1,0 +1,45 @@
+{
+  "_from": "ptcs-collapse@^9.1.0-0",
+  "_id": "ptcs-collapse@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-Bp9xR2x+ER0Sm3T61NYy+3sew5g=",
+  "_location": "/ptcs-collapse",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-collapse@^9.1.0-0",
+    "name": "ptcs-collapse",
+    "escapedName": "ptcs-collapse",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-datepicker",
+    "/ptcs-library",
+    "/ptcs-page-select"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-collapse/-/ptcs-collapse-9.1.0-820.tgz",
+  "_shasum": "069f71476c7e111d129b74fad4d632fb7b1ec398",
+  "_spec": "ptcs-collapse@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-collapse": "^3.0.0",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-collapse.js",
+  "name": "ptcs-collapse",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

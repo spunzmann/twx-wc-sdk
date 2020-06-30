@@ -1,0 +1,45 @@
+{
+  "_from": "ptcs-chart@^9.1.0-0",
+  "_id": "ptcs-chart@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-g5Mb5RG+dIOucRbd8G001jYiSaM=",
+  "_location": "/ptcs-chart",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-chart@^9.1.0-0",
+    "name": "ptcs-chart",
+    "escapedName": "ptcs-chart",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-chart/-/ptcs-chart-9.1.0-820.tgz",
+  "_shasum": "83931be511be7483ae7116ddf06d34d6362249a3",
+  "_spec": "ptcs-chart@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "d3-array": "^2.4.0",
+    "d3-scale": "^2.2.2",
+    "d3-selection": "^1.4.1",
+    "d3-shape": "^1.3.7"
+  },
+  "deprecated": false,
+  "description": "## Overview",
+  "keywords": [],
+  "license": "ISC",
+  "name": "ptcs-chart",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

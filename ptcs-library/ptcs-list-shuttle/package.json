@@ -1,0 +1,39 @@
+{
+  "_from": "ptcs-list-shuttle@^9.1.0-0",
+  "_id": "ptcs-list-shuttle@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-sfPcVLq6YANcbDozIEzZLuzYspY=",
+  "_location": "/ptcs-list-shuttle",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-list-shuttle@^9.1.0-0",
+    "name": "ptcs-list-shuttle",
+    "escapedName": "ptcs-list-shuttle",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-list-shuttle/-/ptcs-list-shuttle-9.1.0-820.tgz",
+  "_shasum": "b1f3dc54baba60035c6c3a33204cd92eecd8b296",
+  "_spec": "ptcs-list-shuttle@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "## Visual",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-list-shuttle.js",
+  "name": "ptcs-list-shuttle",
+  "version": "9.1.0-820"
+}

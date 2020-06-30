@@ -1,0 +1,41 @@
+{
+  "_from": "ptcs-tabs@^9.1.0-0",
+  "_id": "ptcs-tabs@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-iPKxcPvGUQc6S7HvjG3GJSIaMS4=",
+  "_location": "/ptcs-tabs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-tabs@^9.1.0-0",
+    "name": "ptcs-tabs",
+    "escapedName": "ptcs-tabs",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-tabs/-/ptcs-tabs-9.1.0-820.tgz",
+  "_shasum": "88f2b170fbc651073a4bb1ef8c6dc625221a312e",
+  "_spec": "ptcs-tabs@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@vaadin/vaadin-tabs": "^2.1.1"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-tab-set.js",
+  "name": "ptcs-tabs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

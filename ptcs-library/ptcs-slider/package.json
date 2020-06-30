@@ -1,0 +1,39 @@
+{
+  "_from": "ptcs-slider@^9.1.0-0",
+  "_id": "ptcs-slider@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-rht303mBp/DA7Esl14jVnA3Pxsc=",
+  "_location": "/ptcs-slider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-slider@^9.1.0-0",
+    "name": "ptcs-slider",
+    "escapedName": "ptcs-slider",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-slider/-/ptcs-slider-9.1.0-820.tgz",
+  "_shasum": "ae1b77d37981a7f0c0ec4b25d788d59c0dcfc6c7",
+  "_spec": "ptcs-slider@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "## Overview",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-slider.js",
+  "name": "ptcs-slider",
+  "version": "9.1.0-820"
+}

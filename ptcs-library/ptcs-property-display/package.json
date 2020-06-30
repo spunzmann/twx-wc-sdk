@@ -1,0 +1,39 @@
+{
+  "_from": "ptcs-property-display@^9.1.0-0",
+  "_id": "ptcs-property-display@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-Us2e20c4VLeZTNQ6vjlV5OEF2JU=",
+  "_location": "/ptcs-property-display",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-property-display@^9.1.0-0",
+    "name": "ptcs-property-display",
+    "escapedName": "ptcs-property-display",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-property-display/-/ptcs-property-display-9.1.0-820.tgz",
+  "_shasum": "52cd9edb473854b7994cd43abe3955e4e105d895",
+  "_spec": "ptcs-property-display@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "ptcs-modal-image-popup": "file:../ptcs-modal-image-popup",
+    "ptcs-value-display": "file:../ptcs-value-display"
+  },
+  "deprecated": false,
+  "description": "## Overview",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-property-display.js",
+  "name": "ptcs-property-display",
+  "version": "9.1.0-820"
+}

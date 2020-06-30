@@ -1,0 +1,45 @@
+{
+  "_from": "ptcs-dropdown@^9.1.0-0",
+  "_id": "ptcs-dropdown@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-ghJRD/TjytijqCRkSN9RLwZBzTY=",
+  "_location": "/ptcs-dropdown",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-dropdown@^9.1.0-0",
+    "name": "ptcs-dropdown",
+    "escapedName": "ptcs-dropdown",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-datepicker",
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-dropdown/-/ptcs-dropdown-9.1.0-820.tgz",
+  "_shasum": "8212510ff4e3cad8a3a8246448df512f0641cd36",
+  "_spec": "ptcs-dropdown@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-icons": "^3.0.0",
+    "@polymer/polymer": "^3.0.0",
+    "ptcs-hbar": "file:../ptcs-hbar",
+    "ptcs-library": "file:../ptcs-library"
+  },
+  "deprecated": false,
+  "description": "<img src=\"img/ptcs-dropdown.png\">",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-dropdown.js",
+  "name": "ptcs-dropdown",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

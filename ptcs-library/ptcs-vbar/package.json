@@ -1,0 +1,42 @@
+{
+  "_from": "ptcs-vbar@^9.1.0-0",
+  "_id": "ptcs-vbar@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-14pzpyeB66o1Y0Kzh+FFYi2yZIA=",
+  "_location": "/ptcs-vbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-vbar@^9.1.0-0",
+    "name": "ptcs-vbar",
+    "escapedName": "ptcs-vbar",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-datepicker",
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-vbar/-/ptcs-vbar-9.1.0-820.tgz",
+  "_shasum": "d78a73a72781ebaa356342b387e145622db26480",
+  "_spec": "ptcs-vbar@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-vbar.js",
+  "name": "ptcs-vbar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

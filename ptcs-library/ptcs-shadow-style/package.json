@@ -1,0 +1,42 @@
+{
+  "_from": "ptcs-shadow-style@^9.1.0-0",
+  "_id": "ptcs-shadow-style@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-dIaqkuidQlwr7BCwkc792exhyHc=",
+  "_location": "/ptcs-shadow-style",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-shadow-style@^9.1.0-0",
+    "name": "ptcs-shadow-style",
+    "escapedName": "ptcs-shadow-style",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library",
+    "/ptcs-textfield",
+    "/ptcs-toggle-button"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-shadow-style/-/ptcs-shadow-style-9.1.0-820.tgz",
+  "_shasum": "7486aa92e89d425c2bec10b091cefdd9ec61c877",
+  "_spec": "ptcs-shadow-style@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Dmitry Davidovich",
+    "email": "ddavidovich@ptc.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This is an experimental shim for the `::part` CSS selector as defined [here](https://drafts.csswg.org/css-shadow-parts-1/)",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-shadow-style.js",
+  "name": "ptcs-shadow-style",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

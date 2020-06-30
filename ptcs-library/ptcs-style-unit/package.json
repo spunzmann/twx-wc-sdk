@@ -1,0 +1,39 @@
+{
+  "_from": "ptcs-style-unit@^9.1.0-0",
+  "_id": "ptcs-style-unit@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-51k3+07ExHzzmtnUA84GIq2WXto=",
+  "_location": "/ptcs-style-unit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-style-unit@^9.1.0-0",
+    "name": "ptcs-style-unit",
+    "escapedName": "ptcs-style-unit",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-style-unit/-/ptcs-style-unit-9.1.0-820.tgz",
+  "_shasum": "e75937fb4ec4c47cf39ad9d403ce0622ad965eda",
+  "_spec": "ptcs-style-unit@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "An element that dynamically styles components",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-style-unit.js",
+  "name": "ptcs-style-unit",
+  "version": "9.1.0-820"
+}

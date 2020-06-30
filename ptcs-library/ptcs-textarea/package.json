@@ -1,0 +1,37 @@
+{
+  "_from": "ptcs-textarea@^9.1.0-0",
+  "_id": "ptcs-textarea@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-+TJiliOB0Sb/ckc758lNeYktRec=",
+  "_location": "/ptcs-textarea",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-textarea@^9.1.0-0",
+    "name": "ptcs-textarea",
+    "escapedName": "ptcs-textarea",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-textarea/-/ptcs-textarea-9.1.0-820.tgz",
+  "_shasum": "f93262962381d126ff72473be7c94d79892d45e7",
+  "_spec": "ptcs-textarea@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-textarea.js",
+  "name": "ptcs-textarea",
+  "version": "9.1.0-820"
+}

@@ -1,0 +1,47 @@
+{
+  "_from": "ptcs-button@^9.1.0-0",
+  "_id": "ptcs-button@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-97NCBDbalojC3aXGFv+Jtr/B/88=",
+  "_location": "/ptcs-button",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-button@^9.1.0-0",
+    "name": "ptcs-button",
+    "escapedName": "ptcs-button",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-datepicker",
+    "/ptcs-library",
+    "/ptcs-textfield"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-button/-/ptcs-button-9.1.0-820.tgz",
+  "_shasum": "f7b3420436da9688c2dda5c616ff89b6bfc1ffcf",
+  "_spec": "ptcs-button@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-icons": "^3.0.0",
+    "@polymer/polymer": "^3.1.0",
+    "ptcs-behavior-binary": "file:../ptcs-behavior-binary",
+    "ptcs-behavior-focus": "file:../ptcs-behavior-focus",
+    "ptcs-library": "file:../ptcs-library"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-button.js",
+  "name": "ptcs-button",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ptcs-shadow-style",
+  "description": "",
+  "main": "ptcs-shadow-style.html",
+  "authors": [
+    "Dmitry Davidovich <ddavidovich@ptc.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

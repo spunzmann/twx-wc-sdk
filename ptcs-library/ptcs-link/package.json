@@ -1,0 +1,39 @@
+{
+  "_from": "ptcs-link@^9.1.0-0",
+  "_id": "ptcs-link@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-scP4Xayp0UCAtP+t1R5zL5r7vx8=",
+  "_location": "/ptcs-link",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-link@^9.1.0-0",
+    "name": "ptcs-link",
+    "escapedName": "ptcs-link",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-link/-/ptcs-link-9.1.0-820.tgz",
+  "_shasum": "b1c3f85daca9d14080b4ffadd51e732f9afbbf1f",
+  "_spec": "ptcs-link@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-link.js",
+  "name": "ptcs-link",
+  "version": "9.1.0-820"
+}

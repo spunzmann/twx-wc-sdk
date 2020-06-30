@@ -1,0 +1,44 @@
+{
+  "_from": "ptcs-behavior-binary@^9.1.0-0",
+  "_id": "ptcs-behavior-binary@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-o3dI0pFaUcB8YJ3FV8+2vQYnO2U=",
+  "_location": "/ptcs-behavior-binary",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-behavior-binary@^9.1.0-0",
+    "name": "ptcs-behavior-binary",
+    "escapedName": "ptcs-behavior-binary",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-button",
+    "/ptcs-library",
+    "/ptcs-toggle-button"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-behavior-binary/-/ptcs-behavior-binary-9.1.0-820.tgz",
+  "_shasum": "a37748d2915a51c07c609dc557cfb6bd06273b65",
+  "_spec": "ptcs-behavior-binary@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "A binary visual representation can be in _on_ or _off_ state. When the UI element is activated it toggles state.",
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-behavior-binary.js",
+  "name": "ptcs-behavior-binary",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

@@ -1,0 +1,41 @@
+{
+  "_from": "ptcs-page-select@^9.1.0-0",
+  "_id": "ptcs-page-select@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-fr6SmREvWRwIG95CoKBUFGAuoPU=",
+  "_location": "/ptcs-page-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-page-select@^9.1.0-0",
+    "name": "ptcs-page-select",
+    "escapedName": "ptcs-page-select",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-page-select/-/ptcs-page-select-9.1.0-820.tgz",
+  "_shasum": "7ebe9299112f591c081bde42a0a05414602ea0f5",
+  "_spec": "ptcs-page-select@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "ptcs-collapse": "file:../ptcs-collapse"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-page-select.js",
+  "name": "ptcs-page-select",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

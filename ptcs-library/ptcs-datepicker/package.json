@@ -1,0 +1,49 @@
+{
+  "_from": "ptcs-datepicker@^9.1.0-0",
+  "_id": "ptcs-datepicker@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-9xkZ2X5JDFrIH6+iIwZotNrmQfM=",
+  "_location": "/ptcs-datepicker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-datepicker@^9.1.0-0",
+    "name": "ptcs-datepicker",
+    "escapedName": "ptcs-datepicker",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-datepicker/-/ptcs-datepicker-9.1.0-820.tgz",
+  "_shasum": "f71919d97e490c5ac81fafa2230668b4dae641f3",
+  "_spec": "ptcs-datepicker@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "^2.23.0",
+    "ptcs-button": "file:../ptcs-button",
+    "ptcs-collapse": "file:../ptcs-collapse",
+    "ptcs-dropdown": "file:../ptcs-dropdown",
+    "ptcs-hbar": "file:../ptcs-hbar",
+    "ptcs-icons": "file:../ptcs-icons",
+    "ptcs-textfield": "file:../ptcs-textfield",
+    "ptcs-vbar": "file:../ptcs-vbar"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-datepicker.js",
+  "name": "ptcs-datepicker",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

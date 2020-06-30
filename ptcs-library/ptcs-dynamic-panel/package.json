@@ -1,0 +1,37 @@
+{
+  "_from": "ptcs-dynamic-panel@^9.1.0-0",
+  "_id": "ptcs-dynamic-panel@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-jlOlI+hSrkCN5XxekC2dUXX797k=",
+  "_location": "/ptcs-dynamic-panel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-dynamic-panel@^9.1.0-0",
+    "name": "ptcs-dynamic-panel",
+    "escapedName": "ptcs-dynamic-panel",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-dynamic-panel/-/ptcs-dynamic-panel-9.1.0-820.tgz",
+  "_shasum": "8e53a523e852ae408de57c5e902d9d5175fbf7b9",
+  "_spec": "ptcs-dynamic-panel@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "## Overview",
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-dynamic-panel.js",
+  "name": "ptcs-dynamic-panel",
+  "version": "9.1.0-820"
+}

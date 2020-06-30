@@ -1,0 +1,47 @@
+{
+  "_from": "ptcs-textfield@^9.1.0-0",
+  "_id": "ptcs-textfield@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-ovyd1HiCTQKVy7cVvgSkiSphpbA=",
+  "_location": "/ptcs-textfield",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-textfield@^9.1.0-0",
+    "name": "ptcs-textfield",
+    "escapedName": "ptcs-textfield",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-datepicker",
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-textfield/-/ptcs-textfield-9.1.0-820.tgz",
+  "_shasum": "a2fc9dd478824d0295cbb715be04a4892a61a5b0",
+  "_spec": "ptcs-textfield@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "ptcs-button": "file:../ptcs-button",
+    "ptcs-icon": "file:../ptcs-icon",
+    "ptcs-icons": "file:../ptcs-icons",
+    "ptcs-label": "file:../ptcs-label",
+    "ptcs-library": "file:../ptcs-library",
+    "ptcs-shadow-style": "file:../ptcs-shadow-style"
+  },
+  "deprecated": false,
+  "description": "## Visual",
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-textfield.js",
+  "name": "ptcs-textfield",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

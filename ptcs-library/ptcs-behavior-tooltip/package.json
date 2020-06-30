@@ -1,0 +1,42 @@
+{
+  "_from": "ptcs-behavior-tooltip@^9.1.0-0",
+  "_id": "ptcs-behavior-tooltip@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-GqkC756903W+KisZF6EspbFEGrM=",
+  "_location": "/ptcs-behavior-tooltip",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-behavior-tooltip@^9.1.0-0",
+    "name": "ptcs-behavior-tooltip",
+    "escapedName": "ptcs-behavior-tooltip",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-behavior-tooltip/-/ptcs-behavior-tooltip-9.1.0-820.tgz",
+  "_shasum": "1aa902ef9ebdd375be2a2b1917a12ca5b1441ab3",
+  "_spec": "ptcs-behavior-tooltip@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "## Overview",
+  "devDependencies": {},
+  "homepage": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-behavior-tooltip.js",
+  "name": "ptcs-behavior-tooltip",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

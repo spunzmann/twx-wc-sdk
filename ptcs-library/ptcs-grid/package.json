@@ -1,0 +1,39 @@
+{
+  "_from": "ptcs-grid@^9.1.0-0",
+  "_id": "ptcs-grid@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-MFlBr16rFur3lKHfYs7kVbUOvMw=",
+  "_location": "/ptcs-grid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-grid@^9.1.0-0",
+    "name": "ptcs-grid",
+    "escapedName": "ptcs-grid",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-grid/-/ptcs-grid-9.1.0-820.tgz",
+  "_shasum": "305941af5eab16eaf794a1df62cee455b50ebccc",
+  "_spec": "ptcs-grid@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-grid.js",
+  "name": "ptcs-grid",
+  "version": "9.1.0-820"
+}

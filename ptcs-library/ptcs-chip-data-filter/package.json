@@ -1,0 +1,38 @@
+{
+  "_from": "ptcs-chip-data-filter@^9.1.0-0",
+  "_id": "ptcs-chip-data-filter@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-OIQiq7gUNIetSdicAr6azlKHcOU=",
+  "_location": "/ptcs-chip-data-filter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-chip-data-filter@^9.1.0-0",
+    "name": "ptcs-chip-data-filter",
+    "escapedName": "ptcs-chip-data-filter",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-chip-data-filter/-/ptcs-chip-data-filter-9.1.0-820.tgz",
+  "_shasum": "388422abb8143487ad49d89c02be9ace528770e5",
+  "_spec": "ptcs-chip-data-filter@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "### Visual",
+  "keywords": [],
+  "license": "ISC",
+  "main": "ptcs-chip-data-filter.js",
+  "name": "ptcs-chip-data-filter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "9.1.0-820"
+}

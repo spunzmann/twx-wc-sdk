@@ -1,0 +1,39 @@
+{
+  "_from": "ptcs-modal-overlay@^9.1.0-0",
+  "_id": "ptcs-modal-overlay@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-ISXVHJPTiTW8h6eirdfv6vVPeI4=",
+  "_location": "/ptcs-modal-overlay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-modal-overlay@^9.1.0-0",
+    "name": "ptcs-modal-overlay",
+    "escapedName": "ptcs-modal-overlay",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-confirmation",
+    "/ptcs-library",
+    "/ptcs-modal-image-popup",
+    "/ptcs-value-display"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-modal-overlay/-/ptcs-modal-overlay-9.1.0-820.tgz",
+  "_shasum": "2125d51c93d38935bc87a7a2add7efeaf54f788e",
+  "_spec": "ptcs-modal-overlay@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-modal-overlay.js",
+  "name": "ptcs-modal-overlay",
+  "version": "9.1.0-820"
+}

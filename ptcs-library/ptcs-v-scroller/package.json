@@ -1,0 +1,41 @@
+{
+  "_from": "ptcs-v-scroller@^9.1.0-0",
+  "_id": "ptcs-v-scroller@9.1.0-820",
+  "_inBundle": false,
+  "_integrity": "sha1-zaZFwPydWIB2O3MYPOTP1r4oH2g=",
+  "_location": "/ptcs-v-scroller",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ptcs-v-scroller@^9.1.0-0",
+    "name": "ptcs-v-scroller",
+    "escapedName": "ptcs-v-scroller",
+    "rawSpec": "^9.1.0-0",
+    "saveSpec": null,
+    "fetchSpec": "^9.1.0-0"
+  },
+  "_requiredBy": [
+    "/ptcs-library"
+  ],
+  "_resolved": "https://artifactory.rd2.thingworx.io/artifactory/api/npm/twx-visual-sdk-virtual/ptcs-v-scroller/-/ptcs-v-scroller-9.1.0-820.tgz",
+  "_shasum": "cda645c0fc9d5880763b73183ce4cfd6be281f68",
+  "_spec": "ptcs-v-scroller@^9.1.0-0",
+  "_where": "/tmp/workspace/twx-visual-sdk_release-9.0.x/mub/tmp/node_modules/ptcs-library",
+  "author": {
+    "name": "Magnus Tobiasson",
+    "email": "mtobiasson@ptc.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "A virtual vertical scroller",
+  "devDependencies": {},
+  "homepage": "",
+  "license": "MIT",
+  "main": "ptcs-v-scroller.js",
+  "name": "ptcs-v-scroller",
+  "version": "9.1.0-820"
+}
